@@ -8,6 +8,7 @@ createApp({
         return{
             nome:'Kira',
             cognome:'The dog',
+            img:'https://placedog.net/600',
         }
     },
     methods:{
